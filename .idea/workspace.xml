@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2049e18-97ae-4388-aaca-a78cf0ec46c6" name="Changes" comment="" />
+    <list default="true" id="b2049e18-97ae-4388-aaca-a78cf0ec46c6" name="Changes" comment="test">
+      <change beforePath="$PROJECT_DIR$/portfoliowebsite/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/portfoliowebsite/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfoliowebsite/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfoliowebsite/vite.config.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,11 +44,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707253703539</updated>
-      <workItem from="1707253705224" duration="952000" />
+      <workItem from="1707253705224" duration="4584000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <option name="closed" value="true" />
+      <created>1707254688587</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707254688587</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <option name="closed" value="true" />
+      <created>1707254692421</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707254692421</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>

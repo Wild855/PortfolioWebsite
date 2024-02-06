@@ -1,9 +1,11 @@
 {
-  "homepage": "https://wild855.github.io/PortfolioWebsite/",
+  "homepage": "https://Wild855.github.io/PortfolioWebsite/",
   "name": "portfoliowebsite",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+
+
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",

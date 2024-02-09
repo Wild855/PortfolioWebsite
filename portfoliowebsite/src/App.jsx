@@ -25,6 +25,7 @@ function App() {
           Edit <code>src/App.jsx</code> and save to test HMR
             <div>Hello, everyone I hope you are doing great today!!! </div>
             This is my portfolio site and it is a work in progress.
+           <div> Hello there, I'm Victor a Developer </div>
         </p>
       </div>
       <p className="read-the-docs">
